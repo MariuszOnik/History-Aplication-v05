@@ -11,8 +11,8 @@ let Historia3SliderImages = [
 let Historia3SliderTitlesPL = [
    
     "Herb Częstochowy według gotyckiej pieczęci odciśniętej na dokumencie z 1564 r.",
-    "Oblężenie Jasnej Góry przez Szwedów w 1655 r., sztych według miedziorytu Gabriela Bodenehra Starszego W zbiorach Muzeum Częstochowskiego",
-    "Ogólny widok Częstochowy od strony Złotej Góry, rys. Władysław Dmochowski, ilustracja z albumu Widoki Częstochowy i Jasnej Góry z opisem, Warszawa 1876W zbiorach Muzeum Częstochowskiego",
+    "Oblężenie Jasnej Góry przez Szwedów w 1655 r., sztych według miedziorytu Gabriela Bodenehra Starszego. W zbiorach Muzeum Częstochowskiego",
+    "Ogólny widok Częstochowy od strony Złotej Góry, rys. Władysław Dmochowski, ilustracja z albumu Widoki Częstochowy i Jasnej Góry z opisem, Warszawa 1876 r. W zbiorach Muzeum Częstochowskiego",
 
 ]
 

@@ -6,7 +6,7 @@ let MurySliderImages = [
 ];
 
 let MurySliderTitlesPL = [
-    "Oblężenie Jasnej Góry przez Szwedów w 1655 r., fragment przedstawiający widok Starej Częstochowy, sztych według miedziorytu Jana Aleksandra Gorczyna W zbiorach Muzeum Narodowego w Krakowie. Pracownia Fotograficzna Muzeum Narodowego w Krakowie "
+    "Oblężenie Jasnej Góry przez Szwedów w 1655 r., fragment przedstawiający widok Starej Częstochowy, sztych według miedziorytu Jana Aleksandra Gorczyna. W zbiorach Muzeum Narodowego w Krakowie. Pracownia Fotograficzna Muzeum Narodowego w Krakowie "
 
 
 ]

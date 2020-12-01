@@ -8,9 +8,9 @@ let PlacSliderImages = [
 ];
 
 let PlacSliderTitlesPL = [
-    "Oblężenie Jasnej Góry przez Szwedów w 1655 r., fragment przedstawiający widok Starej Częstochowy, sztych według miedziorytu Jana Aleksandra Gorczyna W zbiorach Muzeum Narodowego w Krakowie. Pracownia Fotograficzna Muzeum Narodowego w Krakowie",
-    "Kościół św. Zygmunta w Starej Częstochowie, 1862 r., rys. Władysław Szerner W zbiorach Muzeum Częstochowskiego",
-    "Kościół św. Zygmunta w Starej Częstochowie, rys. Władysław Dmochowski, ilustracja z albumu Widoki Częstochowy i Jasnej Góry z opisem, Warszawa 1876 W zbiorach Muzeum Częstochowskiego"
+    "Oblężenie Jasnej Góry przez Szwedów w 1655 r., fragment przedstawiający widok Starej Częstochowy, sztych według miedziorytu Jana Aleksandra Gorczyna. W zbiorach Muzeum Narodowego w Krakowie. Pracownia Fotograficzna Muzeum Narodowego w Krakowie",
+    "Kościół św. Zygmunta w Starej Częstochowie, 1862 r., rys. Władysław Szerner. W zbiorach Muzeum Częstochowskiego",
+    "Kościół św. Zygmunta w Starej Częstochowie, rys. Władysław Dmochowski, ilustracja z albumu Widoki Częstochowy i Jasnej Góry z opisem, Warszawa 1876. W zbiorach Muzeum Częstochowskiego"
 
 ]
 

@@ -6,7 +6,7 @@ let Historia1SliderImages = [
 
 let Historia1SliderTitlesPL = [
     "Figura króla Kazimierza III Wielkiego z jego nagrobka, rys. Aleksander Lesser. Muzeum Narodowe w Warszawie.",
-    "Dokument króla  przyznający przywilej na lokację dwóch wsi, „jednej zwanej Częstochową i drugiej nad rzeką w dąbrowie tegoż dziedzictwa Częstochowy”. Archiwum Jasnogórskie."
+    "Dokument króla Kazimierza III Wielkiego  przyznający przywilej na lokację dwóch wsi, „jednej zwanej Częstochową i drugiej nad rzeką w dąbrowie tegoż dziedzictwa Częstochowy”. Archiwum Jasnogórskie."
 ]
 let Historia1SliderTitlesEN = [
    "A figure of King Casimir the Great from his tombstone, drawing by Aleksander Lesser. National Museum in Warsaw.",
