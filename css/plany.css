@@ -1,0 +1,54 @@
+
+.plan-kolo{
+    position: absolute;
+    width: 10%;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) !important;
+
+}
+
+.left-kolo{
+    left: 20%
+}
+
+.midle-kolo{
+    left: 50%
+}
+
+.right-kolo{
+    left: 80%;
+}
+
+.first-row{
+    top:25%;
+}
+.second-row{
+    top:60%;
+}
+
+.kolo-title{
+    font-size: 0.8vw;
+    color: antiquewhite;
+    position: absolute;
+  ;
+    transform: translate(-50%, -50%) !important;
+    width: 29%;
+
+}
+
+.first-row-kolo-title{
+    top:40%;
+}
+.second-row-kolo-title{
+    top:75%;
+}
+
+.left-kolo-title{
+    left:20%;
+}
+.midle-kolo-title{
+    left:50%;
+}
+.right-kolo-title{
+    left:80%;
+}

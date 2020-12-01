@@ -1,0 +1,60 @@
+
+#rynek-napis{
+    position: absolute;
+    left: 25%;
+    top: 68%;
+    font-size: 2vw;
+    font-weight: 500;
+    color: antiquewhite;
+    transform: translate(-50%, -50%) !important;
+}
+#plac-napis{
+    position: absolute;
+    left: 50%;
+    top: 68%;
+    font-size: 2vw;
+    font-weight: 500;
+    color: antiquewhite;
+    transform: translate(-50%, -50%) !important;
+}
+#mury-napis{
+    position: absolute;
+    left: 75%;
+    top: 68%;
+    font-size: 2vw;
+    font-weight: 500;
+    color: antiquewhite;
+    transform: translate(-50%, -50%) !important;
+}
+
+
+
+#rynek-img{
+    position: absolute;
+    width: 17%;
+   
+    overflow: hidden;
+    top: 33.9%;
+    left: 16.4%;
+
+}
+
+#plac-img{
+    position: absolute;
+    width: 17%;
+   
+    overflow: hidden;
+    top: 33.9%;
+    left: 41.5%;
+
+}
+
+#mury-img{
+    position: absolute;
+    width: 17%;
+   
+    overflow: hidden;
+    top: 33.9%;
+    left: 66.55%
+
+}

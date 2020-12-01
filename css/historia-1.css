@@ -1,0 +1,80 @@
+#slider-historia-1{
+    position: absolute;
+    top: 2%;
+    left: 5%;
+    overflow: hidden;
+    width: 90%;
+    height: 80%;
+}
+    
+#slider-historia-1 > span > img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+    width: 100%;
+    will-change: url; 
+    will-change: opacity;
+
+}
+#historia-1.first-column{
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+}
+#historia-1.first-column > h5{
+    color: antiquewhite;
+    font-size: 1vw;
+    text-align: center;
+    position: absolute;
+    top: 95%;
+    
+}
+#historia-1-title-slider{
+    font-size: 0.9vw !important;
+    top: 74% !important;
+}
+#slider-historia-1 > span {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 85%;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0);
+    will-change: opacity;   
+    
+}
+.image-in-slider-title{
+    color: antiquewhite;
+    font-size: 1vw;
+    position: absolute;
+    top: 76%;
+    left:50%;
+    width: 80%;
+    text-align: center;
+    transform: translate(-50%, -50%) !important;
+    
+}
+
+#slider-historia-1 > span.image-slider-b  {
+    opacity: 0;
+}
+
+#slider-historia-1 > span.image-slider-b.active  {
+    opacity: 1;
+    transition: 1s ease-in-out;
+}
+
+#tlumaczenie-dokumentu-kazimierza-tytul{
+    color:antiquewhite; font-size: 2vw; 
+    font-weight: 600;
+    width: 90%;
+    text-align: center;
+}
+.tlumaczenie{
+    
+    
+   position: absolute;
+    top: 150% !important;
+    z-index: 6;
+}
